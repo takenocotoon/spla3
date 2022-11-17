@@ -1,0 +1,55 @@
+id,ja,ja-en,en,type,type-ja,weight,rank,sub,sp
+0,ボールドマーカー,bold,Sploosh-o-matic,shooter,シューター,fastest,9,カーリングボム,ウルトラハンコ
+10,わかばシューター,wakaba,Splattershot Jr.,shooter,シューター,fast,1,スプラッシュボム,グレートバリア
+20,シャープマーカー,sharp,Splash-o-matic,shooter,シューター,fast,16,クイックボム,カニタンク
+30,プロモデラーMG,promodeler_mg,Aerospray MG,shooter,シューター,fast,5,タンサンボム,サメライド
+40,スプラシューター,sshooter,Splattershot,shooter,シューター,normal,2,キューバンボム,ウルトラショット
+50,.52ガロン,52gal,.52 Gal,shooter,シューター,normal,11,スプラッシュシールド,メガホンレーザー5.1ch
+60,N-ZAP85,nzap85,N-ZAP '85,shooter,シューター,fast,6,キューバンボム,エナジースタンド
+70,プライムシューター,prime,Splattershot Pro,shooter,シューター,normal,9,ラインマーカー,カニタンク
+80,.96ガロン,96gal,.96 Gal,shooter,シューター,normal,17,スプリンクラー,キューインキ
+90,ジェットスイーパー,jetsweeper,Jet Squelcher,shooter,シューター,normal,15,ラインマーカー,キューインキ
+200,ノヴァブラスター,nova,Luna Blaster,blaster,ブラスター,fast,13,スプラッシュボム,ショクワンダー
+210,ホットブラスター,hotblaster,Blaster,blaster,ブラスター,normal,3,ロボットボム,グレートバリア
+220,ロングブラスター,longblaster,Range Blaster,blaster,ブラスター,normal,11,キューバンボム,ホップソナー
+230,クラッシュブラスター,clashblaster,Clash Blaster,blaster,ブラスター,fast,22,スプラッシュボム,ウルトラショット
+240,ラピッドブラスター,rapid,Rapid Blaster,blaster,ブラスター,normal,7,トラップ,トリプルトルネード
+250,Rブラスターエリート,rapid_elite,Rapid Blaster Pro,blaster,ブラスター,normal,26,ポイズンミスト,キューインキ
+300,L3リールガン,l3reelgun,L-3 Nozzlenose,shooter,シューター,normal,13,カーリングボム,カニタンク
+310,H3リールガン,h3reelgun,H-3 Nozzlenose,shooter,シューター,normal,24,ポイントセンサー,エナジースタンド
+400,ボトルガイザー,bottlegeyser,Squeezer,shooter,シューター,normal,19,スプラッシュシールド,ウルトラショット
+1000,カーボンローラー,carbon,Carbon Roller,roller,ローラー,fast,6,ロボットボム,ショクワンダー
+1010,スプラローラー,splatroller,Splat Roller,roller,ローラー,normal,2,カーリングボム,グレートバリア
+1020,ダイナモローラー,dynamo,Dynamo Roller,roller,ローラー,slow,12,スプリンクラー,エナジースタンド
+1030,ヴァリアブルローラー,variableroller,Flingza Roller,roller,ローラー,normal,20,トラップ,マルチミサイル
+1100,パブロ,pablo,Inkbrush,brush,フデ,fast,7,スプラッシュボム,メガホンレーザー5.1ch
+1110,ホクサイ,hokusai,Octobrush,brush,フデ,normal,4,キューバンボム,ショクワンダー
+2000,スクイックリンα,squiclean_a,Squiffer,charger,チャージャー,normal,8,ポイントセンサー,グレートバリア
+2010,スプラチャージャー,splatcharger,Splat Charger,charger,チャージャー,normal,2,スプラッシュボム,キューインキ
+2020,スプラスコープ,splatscope,Splatterscope,charger,チャージャー,normal,10,スプラッシュボム,キューインキ
+2030,リッター4K,liter4k,E-liter 4K,charger,チャージャー,slow,18,トラップ,ホップソナー
+2040,4Kスコープ,liter4k_scope,E-liter 4K Scope,charger,チャージャー,slow,27,トラップ,ホップソナー
+2050,14式竹筒銃・甲,bamboo14mk1,Bamboozler 14,charger,チャージャー,fast,23,ロボットボム,メガホンレーザー5.1ch
+2060,ソイチューバー,soytuber,Goo Tuber,charger,チャージャー,normal,25,トーピード,マルチミサイル
+3000,バケットスロッシャー,bucketslosher,Slosher,slosher,スロッシャー,normal,3,スプラッシュボム,トリプルトルネード
+3010,ヒッセン,hissen,Tri-Slosher,slosher,スロッシャー,fast,10,ポイズンミスト,ジェットパック
+3020,スクリュースロッシャー,screwslosher,Sloshing Machine,slosher,スロッシャー,normal,14,タンサンボム,ナイスダマ
+3030,オーバーフロッシャー,furo,Bloblobber,slosher,スロッシャー,normal,19,スプリンクラー,アメフラシ
+3040,エクスプロッシャー,explosher,Explosher,slosher,スロッシャー,slow,29,ポイントセンサー,アメフラシ
+4000,スプラスピナー,splatspinner,Mini Splatling,splatling,スピナー,normal,12,クイックボム,ウルトラハンコ
+4010,バレルスピナー,barrelspinner,Heavy Splatling,splatling,スピナー,normal,4,スプリンクラー,ホップソナー
+4020,ハイドラント,hydra,Hydra Splatling,splatling,スピナー,slow,20,ロボットボム,ナイスダマ
+4030,クーゲルシュライバー,kugelschreiber,Ballpoint Splatling,splatling,スピナー,normal,30,タンサンボム,ジェットパック
+4040,ノーチラス47,nautilus47,Nautilus 47,splatling,スピナー,normal,28,ポイントセンサー,アメフラシ
+5000,スパッタリー,sputtery,Dapple Dualies,dualies,マニューバー,fast,14,ジャンプビーコン,エナジースタンド
+5010,スプラマニューバー,maneuver,Splat Dualies,dualies,マニューバー,normal,3,キューバンボム,カニタンク
+5020,ケルビン525,kelvin525,Glooga Dualies,dualies,マニューバー,normal,21,スプラッシュシールド,ナイスダマ
+5030,デュアルスイーパー,dualsweeper,Dualie Squelchers,dualies,マニューバー,normal,8,スプラッシュボム,ホップソナー
+5040,クアッドホッパーブラック,quadhopper_black,Tetra Dualies,dualies,マニューバー,normal,17,ロボットボム,サメライド
+6000,パラシェルター,parashelter,Splat Brella,brella,シェルター,normal,5,スプリンクラー,トリプルトルネード
+6010,キャンピングシェルター,campingshelter,Tenta Brella,brella,シェルター,slow,16,ジャンプビーコン,キューインキ
+6020,スパイガジェット,spygadget,Undercover Brella,brella,シェルター,fast,18,トラップ,サメライド
+7010,トライストリンガー,tristringer,Tri-Stringer,stringer,ストリンガー,normal,4,ポイズンミスト,メガホンレーザー5.1ch
+7020,LACT-450,lact450,REEF-LUX 450,stringer,ストリンガー,fast,10,カーリングボム,マルチミサイル
+8000,ドライブワイパー,drivewiper,Splatana Wiper,splatana,ワイパー,fast,5,トーピード,ウルトラハンコ
+8010,ジムワイパー,jimuwiper,Splatana Stamper,splatana,ワイパー,normal,15,クイックボム,ショクワンダー
