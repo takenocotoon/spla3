@@ -342,6 +342,9 @@
                 "name": "\u30e9\u30f3\u30c0\u30e0"
             }
         ],
+        "grizzco": [
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30b9\u30c8\u30ea\u30f3\u30ac\u30fc"
+        ],
         "num": 15
     },
     {
@@ -710,6 +713,9 @@
                 "name": "\u30e9\u30f3\u30c0\u30e0"
             }
         ],
+        "grizzco": [
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30d6\u30e9\u30b9\u30bf\u30fc"
+        ],
         "num": 31
     },
     {
@@ -1029,6 +1035,9 @@
                 "name": "\u30e9\u30f3\u30c0\u30e0"
             }
         ],
+        "grizzco": [
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30b7\u30a7\u30eb\u30bf\u30fc"
+        ],
         "num": 44
     },
     {
@@ -1213,6 +1222,9 @@
                 "name": "\u30e9\u30f3\u30c0\u30e0"
             }
         ],
+        "grizzco": [
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30ef\u30a4\u30d1\u30fc"
+        ],
         "num": 52
     },
     {
@@ -1329,15 +1341,8 @@
                 "name": "\u30e9\u30f3\u30c0\u30e0"
             }
         ],
-        "score": "\uff1f",
-        "fire_score": "\uff1f",
-        "stability_score": "\uff1f",
-        "range_score": "\uff1f",
-        "weak_event": [
-            "\uff1f"
-        ],
-        "weak_enemy": [
-            "\uff1f"
+        "grizzco": [
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30d6\u30e9\u30b9\u30bf\u30fc"
         ],
         "num": 57
     },
@@ -1530,6 +1535,9 @@
             {
                 "name": "\u30e9\u30f3\u30c0\u30e0"
             }
+        ],
+        "grizzco": [
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc"
         ],
         "num": 65
     },
@@ -1832,6 +1840,9 @@
             {
                 "name": "\u30e9\u30f3\u30c0\u30e0"
             }
+        ],
+        "grizzco": [
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc"
         ],
         "num": 78
     },
@@ -2316,6 +2327,14 @@
                 "name": "\u91d1\u30e9\u30f3\u30c0\u30e0"
             }
         ],
+        "grizzco": [
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30d6\u30e9\u30b9\u30bf\u30fc",
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30b7\u30a7\u30eb\u30bf\u30fc",
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc",
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc",
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30b9\u30c8\u30ea\u30f3\u30ac\u30fc",
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30ef\u30a4\u30d1\u30fc"
+        ],
         "num": 99
     },
     {
@@ -2487,6 +2506,7 @@
             "id": "VnNTdGFnZS0xMw==",
             "name": "\u6d77\u5973\u7f8e\u8853\u5927\u5b66"
         },
+        "stage_img": "https://splatoon3.ink/assets/splatnet/stage_img/icon/high_resolution/2276a46e42a11637776ebc15cf2d46a589f1dba34a76d5c940c418ed7371d071_0.png",
         "king": "horrorboros",
         "weapons": [
             {
@@ -2501,6 +2521,9 @@
             {
                 "name": "\u30e9\u30f3\u30c0\u30e0"
             }
+        ],
+        "grizzco": [
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30b7\u30a7\u30eb\u30bf\u30fc"
         ],
         "num": 107
     },
@@ -3006,6 +3029,9 @@
                 "name": "\u30e9\u30f3\u30c0\u30e0"
             }
         ],
+        "grizzco": [
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30b9\u30c8\u30ea\u30f3\u30ac\u30fc"
+        ],
         "num": 128
     },
     {
@@ -3197,6 +3223,9 @@
             {
                 "name": "\u30e9\u30f3\u30c0\u30e0"
             }
+        ],
+        "grizzco": [
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc"
         ],
         "num": 136
     },
@@ -3414,6 +3443,9 @@
                 "name": "\u30e9\u30f3\u30c0\u30e0"
             }
         ],
+        "grizzco": [
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30ef\u30a4\u30d1\u30fc"
+        ],
         "num": 145
     },
     {
@@ -3606,6 +3638,14 @@
                 "name": "\u91d1\u30e9\u30f3\u30c0\u30e0"
             }
         ],
+        "grizzco": [
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30d6\u30e9\u30b9\u30bf\u30fc",
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30b7\u30a7\u30eb\u30bf\u30fc",
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc",
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc",
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30b9\u30c8\u30ea\u30f3\u30ac\u30fc",
+            "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30ef\u30a4\u30d1\u30fc"
+        ],
         "num": 153
     },
     {
@@ -3759,6 +3799,7 @@
             "id": 1,
             "name": "\u30b7\u30a7\u30b1\u30ca\u30c0\u30e0"
         },
+        "king": "cohozuna",
         "weapons": [
             {
                 "name": "\u30b9\u30d1\u30c3\u30bf\u30ea\u30fc"
@@ -3846,5 +3887,29 @@
             }
         ],
         "num": 163
+    },
+    {
+        "start_time": "2023-06-07T17:00:00+09:00",
+        "end_time": "2023-06-09T09:00:00+09:00",
+        "stage": {
+            "id": 2,
+            "name": "\u30a2\u30e9\u30de\u30ad\u7826"
+        },
+        "king": "cohozuna",
+        "weapons": [
+            {
+                "name": "\u30b9\u30d1\u30a4\u30ac\u30b8\u30a7\u30c3\u30c8"
+            },
+            {
+                "name": ".52\u30ac\u30ed\u30f3"
+            },
+            {
+                "name": "\u30c0\u30a4\u30ca\u30e2\u30ed\u30fc\u30e9\u30fc"
+            },
+            {
+                "name": "\u30c8\u30e9\u30a4\u30b9\u30c8\u30ea\u30f3\u30ac\u30fc"
+            }
+        ],
+        "num": 164
     }
 ]
